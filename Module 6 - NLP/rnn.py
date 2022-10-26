@@ -2,7 +2,6 @@ from keras.datasets import imdb
 from keras.utils import pad_sequences
 import keras
 import tensorflow as tf
-import os
 import numpy as np
 
 VOCAB_SIZE = 88584
